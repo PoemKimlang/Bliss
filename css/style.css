@@ -1,0 +1,40 @@
+.cover-image {
+    background-image: url("/image/ang.jfif");
+    background-color: #cccccc;
+    height: 730px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .head-box{
+      width: 100%;
+      border-top: #fdc001 solid 40px;
+      overflow: hidden;
+      background-repeat: no-repeat;
+  }
+ul{
+    margin-left: 15%;
+} 
+ul li{
+    padding: 25px; 
+    list-style-type: none;
+} 
+ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+    display: block;
+    color: black;
+}
+li a:hover{
+    color: orangered;
+}
+.bliss{
+    margin-left: 150px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+
