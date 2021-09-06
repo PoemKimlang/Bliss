@@ -1,7 +1,7 @@
 .cover-image {
     background-image: url("/image/ang.jfif");
     background-color: #cccccc;
-    height: 700px;
+    /* height: 700px; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,9 +14,9 @@
       background-repeat: no-repeat;
   }
   .head-page{
-      width: 100%;
+      /* width: 100%; */
       background-color: rgba(245, 245, 245, 0.89);
-      height: 700px;    
+      /* height: 700px;     */
   }
 .navbar-collapse{
       width: 60%;
@@ -40,12 +40,6 @@
     padding: 25px;
 }
 .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-    color: #fdc001;
-}
-.navbar-collapse .navbar-nav .nav-item .nav-link i{
-    color: black;
-}
-.navbar-collapse .navbar-nav .nav-item .nav-link i:hover{
     color: #fdc001;
 }
 .bliss span{
@@ -123,9 +117,10 @@
     font-size: 15px;
     border-radius: 40px;
 }
+ 
 .btn-send{
     margin-left: 40%;
-    background-color: black;
+    background-color: green;
     margin-top: 1%;
     font-size: 20px;
     padding: 15px 15px;
